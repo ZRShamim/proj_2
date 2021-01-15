@@ -1,0 +1,48 @@
+.buy-button{
+    background-color: #0d132e;
+    color: white;
+}
+
+.buy-button-float{
+    float: right;
+    position: relative;
+    bottom: 20px;
+}
+
+.price{
+    color: rgb(89, 202, 89);
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+.header{
+    padding: 30px 0px;
+}
+
+.top-section{
+    padding-top: 50px;
+}
+
+.top-img-pos{
+    position: relative;
+    top: 100px;
+    left: 30px;
+}
+
+.orange-bg{
+    background-color: orangered;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
+
+h3, h5{
+    color: rgb(23, 23, 56);
+}
+
+span{
+    color: rgb(89, 202, 89);
+}
